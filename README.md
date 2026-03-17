@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou George Marques
+# 👋 Olá, eu sou George Marques Holanda
 
 🎓 Estudante de **Sistemas da Informação**  
 💻 Buscando oportunidade de **estágio em programação**  
@@ -7,10 +7,12 @@
 ---
 
 ## 🚀 Sobre mim
+- Brasileiro, solteiro, 20 anos.
 - Atualmente cursando **Sistemas de Informação**.  
 - Participei da **Jornada Python** da Hashtag Treinamentos.  
 - Iniciei o **Curso de Python Impressionador da Hashtag** para aprofundar meus conhecimentos.  
 - Tenho projetos práticos em **automação de tarefas**, **Chatbot com IA**, **análise de dados** e **machine learning**.
+- Fortaleza - CE.
 
 ---
 
@@ -42,8 +44,10 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/george-marques-holanda-5270a2321/) 
-- GitHub: [https://github.com/GeorgeMarquesH](https://github.com/GeorgeMarquesH)  
+- 📧 E-mail: georgemarquesholanda@gmail.com  
+- 📱 Telefone: +55 (85) 98627-9188  
+- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/george-marques-holanda-5270a2321/) 
+- 💻 GitHub: [https://github.com/GeorgeMarquesH](https://github.com/GeorgeMarquesH)  
 
 ---
 
