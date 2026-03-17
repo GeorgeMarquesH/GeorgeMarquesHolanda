@@ -10,7 +10,7 @@
 - Atualmente cursando **Sistemas de Informação**.  
 - Participei da **Jornada Python** da Hashtag Treinamentos.  
 - Iniciei o **Curso de Python Impressionador da Hashtag** para aprofundar meus conhecimentos.  
-- Tenho projetos práticos em **automação de tarefas**, **Chatbot com IA** **análise de dados** e **machine learning**.
+- Tenho projetos práticos em **automação de tarefas**, **Chatbot com IA**, **análise de dados** e **machine learning**.
 
 ---
 
