@@ -28,6 +28,16 @@
 - [Analisando Dados com Python](https://github.com/GeorgeMarquesH/Analisando-Dados-com-Python.git)  
 - [Chatbot com IA](https://github.com/GeorgeMarquesH/Chatbot-com-IA.git) 
 - [Quiz para Programadores](https://github.com/GeorgeMarquesH/Quiz-para-programadores.git)
+
+---
+
+## 🎓 Certificados
+- **Jornada Python** – Hashtag Treinamentos   
+  [🔗 Certificado](https://dlp.hashtagtreinamentos.com/certificado/download)
+
+- **Iniciando na Programação Full Stack** – Programa Juventude Digital  
+  Emitido pelo Instituto Juventude Inovação / Prefeitura de Fortaleza
+
 ---
 
 ## 📫 Contato
