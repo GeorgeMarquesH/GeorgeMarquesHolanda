@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou George Marques
 
-🎓 Estudante de **Sistemas de Informação**  
+🎓 Estudante de **Sistemas da Informação**  
 💻 Buscando oportunidade de **estágio em programação**  
 🐍 Focado em **Python** e **Desenvolvimento Web**  
 
