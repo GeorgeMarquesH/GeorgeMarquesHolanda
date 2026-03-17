@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas da Informação**  
 💻 Buscando oportunidade de **estágio em programação**  
-🐍 Focado em **Python** e **Desenvolvimento Web**  
+🐍 Focado em **Python**, **Inteligência Artificial** e **Desenvolvimento Web**  
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tecnologias que estudo e utilizo
 - **Python**
-- **Desenvolvimento Web** (HTML, CSS, JavaScript)  
+- **Desenvolvimento Web** (HTML, CSS, JavaScript, PHP)  
 - **Git & GitHub**
 - **VSCode**    
 
