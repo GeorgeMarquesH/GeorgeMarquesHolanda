@@ -10,7 +10,7 @@
 - Brasileiro, solteiro, 20 anos.
 - Atualmente cursando **Sistemas da Informação (Faculdade Estácio de Sá - Período: 5º semestre)**.  
 - Participei da **Jornada Python** da Hashtag Treinamentos.  
-- Iniciei o **Curso de Python Impressionador da Hashtag** para aprofundar meus conhecimentos.  
+- Iniciei o **Curso de Python Impressionador da Hashtag Treinamentos (o plano me dá acesso a outros cursos, como: Power BI, SQL, inteligência Artificial, Pacote Office, etc.** para aprofundar meus conhecimentos.  
 - Tenho projetos práticos em **automação de tarefas**, **Chatbot com IA**, **análise de dados** e **machine learning**.
 - Fortaleza - CE.
 
