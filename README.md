@@ -20,7 +20,7 @@
 - **Python**
 - **Desenvolvimento Web** (HTML, CSS, JavaScript, PHP)  
 - **Git & GitHub**
-- **VSCode**    
+- **VSCode**
 
 ---
 
