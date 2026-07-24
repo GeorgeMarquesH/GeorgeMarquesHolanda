@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas da Informação**   
 💻 Buscando oportunidade de **estágio em programação**  
-🐍 Focado em **Python**, **Inteligência Artificial** e **Desenvolvimento Web**  
+🐍 Focado em **Python**, **Inteligência Artificial**, **Análise de Dados** e **Automação de Tarefas**
 
 ---
 
